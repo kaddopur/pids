@@ -26,11 +26,15 @@
     "eslint": "^1.10.3",
     "eslint-config-rackt": "^1.1.1",
     "eslint-plugin-react": "^3.11.3",
-    "expect": "^1.13.1"
+    "expect": "^1.13.1",
+    "precommit-hook": "^3.0.0"
   },
   "babel": {
     "presets": [
       "es2015-node5"
     ]
-  }
+  },
+  "pre-commit": [
+    "lint"
+  ]
 }
