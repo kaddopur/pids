@@ -25,6 +25,10 @@ function parseTable(jquery, tableNode) {
   return table
 }
 
+function parseTime(timeString) {
+  return moment.utc(timeString, 'HH:mm', true).unix()
+}
+
 export function updateTimetable() {
   const today = moment().format('YYYYMMDD')
   const timetableUrl = 'http://www.thsrc.com.tw/tw/TimeTable/DailyTimeTable/'
@@ -55,3 +59,18 @@ export function updateTimetable() {
     })
   })
 }
+
+export function timetableWithStationAndTime(timetable, station, time, limit) {
+  return Object.keys(timetable).reduce((result, key) => {
+    result[key] = timetable[key].filter(v => v[station] && parseTime(v[station]) > parseTime(time))
+                                .sort((a, b) => parseTime(a[station]) - parseTime(b[station]))
+                                .slice(0, limit)
+    return result
+  }, {})
+}
+
+// updateTimetable()
+// .then(timetable => {
+//   return timetableWithStationAndTime(timetable, '台中站', '06:00', 3)
+// })
+// .then(console.log)
