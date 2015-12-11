@@ -15,7 +15,10 @@
     "babel-cli": "^6.3.17",
     "babel-preset-es2015-node5": "^1.1.1",
     "debug": "^2.2.0",
+    "jquery": "^2.1.4",
+    "jsdom": "^7.2.0",
     "lodash": "^3.10.1",
+    "moment": "^2.10.6",
     "superagent": "^1.5.0",
     "xlsx": "^0.8.0"
   },
