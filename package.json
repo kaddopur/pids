@@ -4,13 +4,32 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "babel-node server.js"
+    "server": "babel-node server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^1.5.0"
+    "babel-cli": "^6.3.17",
+    "babel-preset-es2015-node5": "^1.1.1",
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1",
+    "superagent": "^1.5.0",
+    "xlsx": "^0.8.0"
+  },
+  "devDependencies": {
+    "babel": "^6.3.13",
+    "babel-core": "^6.3.17",
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-rackt": "^1.1.1",
+    "eslint-plugin-react": "^3.11.3"
+  },
+  "babel": {
+    "presets": [
+      "es2015-node5"
+    ]
   }
 }

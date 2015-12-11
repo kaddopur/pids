@@ -1,0 +1,1235 @@
+{
+  "淡水-象山": [
+    {
+      "stationA": "捷運淡水站",
+      "stationB": "捷運紅樹林站",
+      "travelTime": 175,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運紅樹林站",
+      "stationB": "捷運竹圍站",
+      "travelTime": 136,
+      "id": 2,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運竹圍站",
+      "stationB": "捷運關渡站",
+      "travelTime": 145,
+      "id": 3,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運關渡站",
+      "stationB": "捷運忠義站",
+      "travelTime": 78,
+      "id": 4,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運忠義站",
+      "stationB": "捷運復興崗站",
+      "travelTime": 109,
+      "id": 5,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運復興崗站",
+      "stationB": "捷運北投站",
+      "travelTime": 145,
+      "id": 6,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運北投站",
+      "stationB": "捷運奇岩站",
+      "travelTime": 91,
+      "id": 7,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運奇岩站",
+      "stationB": "捷運唭哩岸站",
+      "travelTime": 73,
+      "id": 8,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運唭哩岸站",
+      "stationB": "捷運石牌站",
+      "travelTime": 100,
+      "id": 9,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運石牌站",
+      "stationB": "捷運明德站",
+      "travelTime": 61,
+      "id": 10,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運明德站",
+      "stationB": "捷運芝山站",
+      "travelTime": 76,
+      "id": 11,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運芝山站",
+      "stationB": "捷運士林站",
+      "travelTime": 91,
+      "id": 12,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運士林站",
+      "stationB": "捷運劍潭站",
+      "travelTime": 92,
+      "id": 13,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運劍潭站",
+      "stationB": "捷運圓山站",
+      "travelTime": 109,
+      "id": 14,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運圓山站",
+      "stationB": "捷運民權西路站",
+      "travelTime": 90,
+      "id": 15,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運民權西路站",
+      "stationB": "捷運雙連站",
+      "travelTime": 57,
+      "id": 16,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運雙連站",
+      "stationB": "捷運中山站",
+      "travelTime": 58,
+      "id": 17,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中山站",
+      "stationB": "捷運台北車站",
+      "travelTime": 65,
+      "id": 18,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北車站",
+      "stationB": "捷運台大醫院站",
+      "travelTime": 63,
+      "id": 19,
+      "stopTime": 45
+    },
+    {
+      "stationA": "捷運台大醫院站",
+      "stationB": "捷運中正紀念堂站",
+      "travelTime": 83,
+      "id": 20,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中正紀念堂站",
+      "stationB": "捷運東門站",
+      "travelTime": 165,
+      "id": 21,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運東門站",
+      "stationB": "捷運大安森林公園站",
+      "travelTime": 65,
+      "id": 22,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運大安森林公園站",
+      "stationB": "捷運大安站",
+      "travelTime": 70,
+      "id": 23,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運大安站",
+      "stationB": "捷運信義安和站",
+      "travelTime": 81,
+      "id": 24,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運信義安和站",
+      "stationB": "捷運台北101/世貿站",
+      "travelTime": 81,
+      "id": 25,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北101/世貿站",
+      "stationB": "捷運象山站",
+      "travelTime": 93,
+      "id": 26,
+      "stopTime": 30
+    }
+  ],
+  "北投-大安": [
+    {
+      "stationA": "捷運北投站",
+      "stationB": "捷運奇岩站",
+      "travelTime": 91,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運奇岩站",
+      "stationB": "捷運唭哩岸站",
+      "travelTime": 73,
+      "id": 2,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運唭哩岸站",
+      "stationB": "捷運石牌站",
+      "travelTime": 100,
+      "id": 3,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運石牌站",
+      "stationB": "捷運明德站",
+      "travelTime": 61,
+      "id": 4,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運明德站",
+      "stationB": "捷運芝山站",
+      "travelTime": 76,
+      "id": 5,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運芝山站",
+      "stationB": "捷運士林站",
+      "travelTime": 91,
+      "id": 6,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運士林站",
+      "stationB": "捷運劍潭站",
+      "travelTime": 92,
+      "id": 7,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運劍潭站",
+      "stationB": "捷運圓山站",
+      "travelTime": 109,
+      "id": 8,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運圓山站",
+      "stationB": "捷運民權西路站",
+      "travelTime": 90,
+      "id": 9,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運民權西路站",
+      "stationB": "捷運雙連站",
+      "travelTime": 57,
+      "id": 10,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運雙連站",
+      "stationB": "捷運中山站",
+      "travelTime": 58,
+      "id": 11,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中山站",
+      "stationB": "捷運台北車站",
+      "travelTime": 65,
+      "id": 12,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北車站",
+      "stationB": "捷運台大醫院站",
+      "travelTime": 63,
+      "id": 13,
+      "stopTime": 45
+    },
+    {
+      "stationA": "捷運台大醫院站",
+      "stationB": "捷運中正紀念堂站",
+      "travelTime": 83,
+      "id": 14,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中正紀念堂站",
+      "stationB": "捷運東門站",
+      "travelTime": 165,
+      "id": 15,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運東門站",
+      "stationB": "捷運大安森林公園站",
+      "travelTime": 65,
+      "id": 16,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運大安森林公園站",
+      "stationB": "捷運大安站",
+      "travelTime": 70,
+      "id": 17,
+      "stopTime": 30
+    }
+  ],
+  "松山-新店": [
+    {
+      "stationA": "捷運松山站",
+      "stationB": "捷運南京三民站",
+      "travelTime": 138,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運南京三民站",
+      "stationB": "捷運台北小巨蛋站",
+      "travelTime": 102,
+      "id": 2,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北小巨蛋站",
+      "stationB": "捷運南京復興站",
+      "travelTime": 84,
+      "id": 3,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運南京復興站",
+      "stationB": "捷運松江南京站",
+      "travelTime": 92,
+      "id": 4,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運松江南京站",
+      "stationB": "捷運中山站",
+      "travelTime": 106,
+      "id": 5,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運中山站",
+      "stationB": "捷運北門站",
+      "travelTime": 114,
+      "id": 6,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運北門站",
+      "stationB": "捷運西門站",
+      "travelTime": 75,
+      "id": 7,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運西門站",
+      "stationB": "捷運小南門站",
+      "travelTime": 81,
+      "id": 8,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運小南門站",
+      "stationB": "捷運中正紀念堂站",
+      "travelTime": 75,
+      "id": 9,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中正紀念堂站",
+      "stationB": "捷運古亭站",
+      "travelTime": 83,
+      "id": 10,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運古亭站",
+      "stationB": "捷運台電大樓站",
+      "travelTime": 88,
+      "id": 11,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運台電大樓站",
+      "stationB": "捷運公館站",
+      "travelTime": 67,
+      "id": 12,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運公館站",
+      "stationB": "捷運萬隆站",
+      "travelTime": 119,
+      "id": 13,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運萬隆站",
+      "stationB": "捷運景美站",
+      "travelTime": 87,
+      "id": 14,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運景美站",
+      "stationB": "捷運大坪林站",
+      "travelTime": 89,
+      "id": 15,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運大坪林站",
+      "stationB": "捷運七張站",
+      "travelTime": 75,
+      "id": 16,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運七張站",
+      "stationB": "捷運新店區公所站",
+      "travelTime": 78,
+      "id": 17,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運新店區公所站",
+      "stationB": "捷運新店站",
+      "travelTime": 111,
+      "id": 18,
+      "stopTime": 22
+    }
+  ],
+  "松山-台電大樓": [
+    {
+      "stationA": "捷運松山站",
+      "stationB": "捷運南京三民站",
+      "travelTime": 138,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運南京三民站",
+      "stationB": "捷運台北小巨蛋站",
+      "travelTime": 102,
+      "id": 2,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北小巨蛋站",
+      "stationB": "捷運南京復興站",
+      "travelTime": 84,
+      "id": 3,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運南京復興站",
+      "stationB": "捷運松江南京站",
+      "travelTime": 92,
+      "id": 4,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運松江南京站",
+      "stationB": "捷運中山站",
+      "travelTime": 106,
+      "id": 5,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運中山站",
+      "stationB": "捷運北門站",
+      "travelTime": 114,
+      "id": 6,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運北門站",
+      "stationB": "捷運西門站",
+      "travelTime": 75,
+      "id": 7,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運西門站",
+      "stationB": "捷運小南門站",
+      "travelTime": 81,
+      "id": 8,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運小南門站",
+      "stationB": "捷運中正紀念堂站",
+      "travelTime": 75,
+      "id": 9,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中正紀念堂站",
+      "stationB": "捷運古亭站",
+      "travelTime": 83,
+      "id": 10,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運古亭站",
+      "stationB": "捷運台電大樓站",
+      "travelTime": 88,
+      "id": 11,
+      "stopTime": 25
+    }
+  ],
+  "七張-小碧潭": [
+    {
+      "stationA": "捷運七張站",
+      "stationB": "捷運小碧潭站",
+      "travelTime": 203,
+      "id": 1,
+      "stopTime": 0
+    }
+  ],
+  "北投-新北投": [
+    {
+      "stationA": "捷運北投站",
+      "stationB": "捷運新北投站",
+      "travelTime": 157,
+      "id": 1,
+      "stopTime": 0
+    }
+  ],
+  "南港展覽館-頂埔": [
+    {
+      "stationA": "捷運南港展覽館站",
+      "stationB": "捷運南港站",
+      "travelTime": 114,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運南港站",
+      "stationB": "捷運昆陽站",
+      "travelTime": 105,
+      "id": 2,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運昆陽站",
+      "stationB": "捷運後山埤站",
+      "travelTime": 99,
+      "id": 3,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運後山埤站",
+      "stationB": "捷運永春站",
+      "travelTime": 73,
+      "id": 4,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運永春站",
+      "stationB": "捷運市政府站",
+      "travelTime": 82,
+      "id": 5,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運市政府站",
+      "stationB": "捷運國父紀念館站",
+      "travelTime": 72,
+      "id": 6,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運國父紀念館站",
+      "stationB": "捷運忠孝敦化站",
+      "travelTime": 67,
+      "id": 7,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運忠孝敦化站",
+      "stationB": "捷運忠孝復興站",
+      "travelTime": 63,
+      "id": 8,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運忠孝復興站",
+      "stationB": "捷運忠孝新生站",
+      "travelTime": 84,
+      "id": 9,
+      "stopTime": 40
+    },
+    {
+      "stationA": "捷運忠孝新生站",
+      "stationB": "捷運善導寺站",
+      "travelTime": 76,
+      "id": 10,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運善導寺站",
+      "stationB": "捷運台北車站",
+      "travelTime": 64,
+      "id": 11,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北車站",
+      "stationB": "捷運西門站",
+      "travelTime": 132,
+      "id": 12,
+      "stopTime": 40
+    },
+    {
+      "stationA": "捷運西門站",
+      "stationB": "捷運龍山寺站",
+      "travelTime": 103,
+      "id": 13,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運龍山寺站",
+      "stationB": "捷運江子翠站",
+      "travelTime": 190,
+      "id": 14,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運江子翠站",
+      "stationB": "捷運新埔站",
+      "travelTime": 74,
+      "id": 15,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運新埔站",
+      "stationB": "捷運板橋站",
+      "travelTime": 102,
+      "id": 16,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運板橋站",
+      "stationB": "捷運府中站",
+      "travelTime": 89,
+      "id": 17,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運府中站",
+      "stationB": "捷運亞東醫院站",
+      "travelTime": 92,
+      "id": 18,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運亞東醫院站",
+      "stationB": "捷運海山站",
+      "travelTime": 142,
+      "id": 19,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運海山站",
+      "stationB": "捷運土城站",
+      "travelTime": 106,
+      "id": 20,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運土城站",
+      "stationB": "捷運永寧站",
+      "travelTime": 95,
+      "id": 21,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運永寧站",
+      "stationB": "捷運頂埔站",
+      "travelTime": 180,
+      "id": 22,
+      "stopTime": 25
+    }
+  ],
+  "南港展覽館-亞東醫院": [
+    {
+      "stationA": "捷運南港展覽館站",
+      "stationB": "捷運南港站",
+      "travelTime": 114,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運南港站",
+      "stationB": "捷運昆陽站",
+      "travelTime": 105,
+      "id": 2,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運昆陽站",
+      "stationB": "捷運後山埤站",
+      "travelTime": 99,
+      "id": 3,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運後山埤站",
+      "stationB": "捷運永春站",
+      "travelTime": 73,
+      "id": 4,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運永春站",
+      "stationB": "捷運市政府站",
+      "travelTime": 82,
+      "id": 5,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運市政府站",
+      "stationB": "捷運國父紀念館站",
+      "travelTime": 72,
+      "id": 6,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運國父紀念館站",
+      "stationB": "捷運忠孝敦化站",
+      "travelTime": 67,
+      "id": 7,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運忠孝敦化站",
+      "stationB": "捷運忠孝復興站",
+      "travelTime": 63,
+      "id": 8,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運忠孝復興站",
+      "stationB": "捷運忠孝新生站",
+      "travelTime": 84,
+      "id": 9,
+      "stopTime": 40
+    },
+    {
+      "stationA": "捷運忠孝新生站",
+      "stationB": "捷運善導寺站",
+      "travelTime": 76,
+      "id": 10,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運善導寺站",
+      "stationB": "捷運台北車站",
+      "travelTime": 64,
+      "id": 11,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運台北車站",
+      "stationB": "捷運西門站",
+      "travelTime": 132,
+      "id": 12,
+      "stopTime": 40
+    },
+    {
+      "stationA": "捷運西門站",
+      "stationB": "捷運龍山寺站",
+      "travelTime": 103,
+      "id": 13,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運龍山寺站",
+      "stationB": "捷運江子翠站",
+      "travelTime": 190,
+      "id": 14,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運江子翠站",
+      "stationB": "捷運新埔站",
+      "travelTime": 74,
+      "id": 15,
+      "stopTime": 28
+    },
+    {
+      "stationA": "捷運新埔站",
+      "stationB": "捷運板橋站",
+      "travelTime": 102,
+      "id": 16,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運板橋站",
+      "stationB": "捷運府中站",
+      "travelTime": 89,
+      "id": 17,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運府中站",
+      "stationB": "捷運亞東醫院站",
+      "travelTime": 92,
+      "id": 18,
+      "stopTime": 25
+    }
+  ],
+  "動物園-南港展覽館": [
+    {
+      "stationA": "捷運南港展覽館站",
+      "stationB": "捷運南港軟體園區站",
+      "travelTime": 78,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運南港軟體園區站",
+      "stationB": "捷運東湖站",
+      "travelTime": 85,
+      "id": 2,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運東湖站",
+      "stationB": "捷運葫洲站",
+      "travelTime": 78,
+      "id": 3,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運葫洲站",
+      "stationB": "捷運大湖公園站",
+      "travelTime": 121,
+      "id": 4,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運大湖公園站",
+      "stationB": "捷運內湖站",
+      "travelTime": 71,
+      "id": 5,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運內湖站",
+      "stationB": "捷運文德站",
+      "travelTime": 78,
+      "id": 6,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運文德站",
+      "stationB": "捷運港墘站",
+      "travelTime": 72,
+      "id": 7,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運港墘站",
+      "stationB": "捷運西湖站",
+      "travelTime": 65,
+      "id": 8,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運西湖站",
+      "stationB": "捷運劍南路站",
+      "travelTime": 110,
+      "id": 9,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運劍南路站",
+      "stationB": "捷運大直站",
+      "travelTime": 103,
+      "id": 10,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運大直站",
+      "stationB": "捷運松山機場站",
+      "travelTime": 172,
+      "id": 11,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運松山機場站",
+      "stationB": "捷運中山國中站",
+      "travelTime": 142,
+      "id": 12,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運中山國中站",
+      "stationB": "捷運南京復興站",
+      "travelTime": 66,
+      "id": 13,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運南京復興站",
+      "stationB": "捷運忠孝復興站",
+      "travelTime": 86,
+      "id": 14,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運忠孝復興站",
+      "stationB": "捷運大安站",
+      "travelTime": 67,
+      "id": 15,
+      "stopTime": 45
+    },
+    {
+      "stationA": "捷運大安站",
+      "stationB": "捷運科技大樓站",
+      "travelTime": 69,
+      "id": 16,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運科技大樓站",
+      "stationB": "捷運六張犁站",
+      "travelTime": 122,
+      "id": 17,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運六張犁站",
+      "stationB": "捷運麟光站",
+      "travelTime": 72,
+      "id": 18,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運麟光站",
+      "stationB": "捷運辛亥站",
+      "travelTime": 124,
+      "id": 19,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運辛亥站",
+      "stationB": "捷運萬芳醫院站",
+      "travelTime": 106,
+      "id": 20,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運萬芳醫院站",
+      "stationB": "捷運萬芳社區站",
+      "travelTime": 99,
+      "id": 21,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運萬芳社區站",
+      "stationB": "捷運木柵站",
+      "travelTime": 47,
+      "id": 22,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運木柵站",
+      "stationB": "捷運動物園站",
+      "travelTime": 67,
+      "id": 23,
+      "stopTime": 25
+    }
+  ],
+  "南勢角-蘆洲": [
+    {
+      "stationA": "捷運蘆洲站",
+      "stationB": "捷運三民高中站",
+      "travelTime": 110,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運三民高中站",
+      "stationB": "捷運徐匯中學站",
+      "travelTime": 87,
+      "id": 2,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運徐匯中學站",
+      "stationB": "捷運三和國中站",
+      "travelTime": 82,
+      "id": 3,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運三和國中站",
+      "stationB": "捷運三重國小站",
+      "travelTime": 104,
+      "id": 4,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運三重國小站",
+      "stationB": "捷運大橋頭站",
+      "travelTime": 148,
+      "id": 5,
+      "stopTime": 30
+    },
+    {
+      "stationA": "捷運大橋頭站",
+      "stationB": "捷運民權西路站",
+      "travelTime": 75,
+      "id": 6,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運民權西路站",
+      "stationB": "捷運中山國小站",
+      "travelTime": 72,
+      "id": 7,
+      "stopTime": 45
+    },
+    {
+      "stationA": "捷運中山國小站",
+      "stationB": "捷運行天宮站",
+      "travelTime": 89,
+      "id": 8,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運行天宮站",
+      "stationB": "捷運松江南京站",
+      "travelTime": 75,
+      "id": 9,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運松江南京站",
+      "stationB": "捷運忠孝新生站",
+      "travelTime": 114,
+      "id": 10,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運忠孝新生站",
+      "stationB": "捷運東門站",
+      "travelTime": 118,
+      "id": 11,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運東門站",
+      "stationB": "捷運古亭站",
+      "travelTime": 192,
+      "id": 12,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運古亭站",
+      "stationB": "捷運頂溪站",
+      "travelTime": 187,
+      "id": 13,
+      "stopTime": 40
+    },
+    {
+      "stationA": "捷運頂溪站",
+      "stationB": "捷運永安市場站",
+      "travelTime": 100,
+      "id": 14,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運永安市場站",
+      "stationB": "捷運景安站",
+      "travelTime": 88,
+      "id": 15,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運景安站",
+      "stationB": "捷運南勢角站",
+      "travelTime": 103,
+      "id": 16,
+      "stopTime": 25
+    }
+  ],
+  "南勢角-迴龍": [
+    {
+      "stationA": "捷運迴龍站",
+      "stationB": "捷運丹鳳站",
+      "travelTime": 159,
+      "id": 1,
+      "stopTime": 0
+    },
+    {
+      "stationA": "捷運丹鳳站",
+      "stationB": "捷運輔大站",
+      "travelTime": 110,
+      "id": 2,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運輔大站",
+      "stationB": "捷運新莊站",
+      "travelTime": 130,
+      "id": 3,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運新莊站",
+      "stationB": "捷運頭前庄站",
+      "travelTime": 93,
+      "id": 4,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運頭前庄站",
+      "stationB": "捷運先嗇宮站",
+      "travelTime": 105,
+      "id": 5,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運先嗇宮站",
+      "stationB": "捷運三重站",
+      "travelTime": 142,
+      "id": 6,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運三重站",
+      "stationB": "捷運菜寮站",
+      "travelTime": 84,
+      "id": 7,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運菜寮站",
+      "stationB": "捷運台北橋站",
+      "travelTime": 93,
+      "id": 8,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運台北橋站",
+      "stationB": "捷運大橋頭站",
+      "travelTime": 115,
+      "id": 9,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運大橋頭站",
+      "stationB": "捷運民權西路站",
+      "travelTime": 75,
+      "id": 10,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運民權西路站",
+      "stationB": "捷運中山國小站",
+      "travelTime": 72,
+      "id": 11,
+      "stopTime": 45
+    },
+    {
+      "stationA": "捷運中山國小站",
+      "stationB": "捷運行天宮站",
+      "travelTime": 89,
+      "id": 12,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運行天宮站",
+      "stationB": "捷運松江南京站",
+      "travelTime": 75,
+      "id": 13,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運松江南京站",
+      "stationB": "捷運忠孝新生站",
+      "travelTime": 114,
+      "id": 14,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運忠孝新生站",
+      "stationB": "捷運東門站",
+      "travelTime": 118,
+      "id": 15,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運東門站",
+      "stationB": "捷運古亭站",
+      "travelTime": 192,
+      "id": 16,
+      "stopTime": 35
+    },
+    {
+      "stationA": "捷運古亭站",
+      "stationB": "捷運頂溪站",
+      "travelTime": 187,
+      "id": 17,
+      "stopTime": 40
+    },
+    {
+      "stationA": "捷運頂溪站",
+      "stationB": "捷運永安市場站",
+      "travelTime": 100,
+      "id": 18,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運永安市場站",
+      "stationB": "捷運景安站",
+      "travelTime": 88,
+      "id": 19,
+      "stopTime": 25
+    },
+    {
+      "stationA": "捷運景安站",
+      "stationB": "捷運南勢角站",
+      "travelTime": 103,
+      "id": 20,
+      "stopTime": 25
+    }
+  ]
+}
