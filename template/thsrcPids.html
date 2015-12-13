@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>THSRC Template</title>
+</head>
+<body>
+  <div id="thsrc-pids">
+    <div class="header">
+      台中･左營<span class="small">方向</span>
+    </div>
+
+    <table class="table-thsrc">
+      <thead>
+        <tr>
+          <td>車　種</td>
+          <td style="text-align: right">車　次</td>
+          <td>時　刻</td>
+          <td>開　往</td>
+          <td>編　成</td>
+          <td>自 由 座／晚 點</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="train-info">
+          <td class="train-type train-type-allstop">各停</td>
+          <td class="train-number">807</td>
+          <td class="train-time">07:00</td>
+          <td class="train-destination">左營</td>
+          <td class="train-cars">12<span class="unit">節</span></td>
+          <td class="train-delay">自由座10-12號車</td>
+        </tr>
+        <tr class="train-message">
+          <td colspan="6">沿途停靠: 板橋･桃園･新竹･苗栗･台中･彰化･雲林･嘉義･台南</td>
+        </tr>
+        <tr class="train-separator"></tr>
+
+        <tr class="train-info">
+          <td class="train-type train-type-specialrapid">特快</td>
+          <td class="train-number">1107</td>
+          <td class="train-time">07:06</td>
+          <td class="train-destination">左營</td>
+          <td class="train-cars">12<span class="unit">節</span></td>
+          <td class="train-delay">自由座10-12號車</td>
+        </tr>
+        <tr  class="train-message">
+          <td colspan="6">沿途停靠: 板橋･台中</td>
+        </tr>
+        <tr class="train-separator"></tr>
+
+        <tr class="train-info">
+          <td class="train-type train-type-allstop">各停</td>
+          <td class="train-number">1505</td>
+          <td class="train-time">07:18</td>
+          <td class="train-destination">台中</td>
+          <td class="train-cars">12<span class="unit">節</span></td>
+          <td class="train-delay">自由座10-12號車</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <img src="thsrc.png" srcset="thsrc@2x.png 2x">
+</body>
+</html>
+
+<style>
+#thsrc-pids {
+  background-color: black;
+  height: 375px;
+  width: 667px;
+  color: white;
+  font-family: 'STHeitiTC-Medium', Sans-Serif;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+#thsrc-pids .header {
+  font-size: 32px;
+}
+
+#thsrc-pids .header .small {
+  font-size: 20px;
+  letter-spacing: initial;
+}
+
+.table-thsrc {
+  font-family: 'STHeitiTC-Light', Sans-Serif;
+  width: 100%;
+  margin-top: 16px;
+  border-spacing: 0 4px;
+}
+
+.table-thsrc thead td {
+  font-size: 12px;
+}
+
+.table-thsrc .train-info {
+  font-size: 24px;
+  height: 40px;
+  background-color: #1c1c1c;
+}
+
+.table-thsrc .train-info td {
+  vertical-align: middle;
+  padding: 0;
+}
+
+.table-thsrc .train-type-allstop {
+  border: 2px solid white;
+}
+
+.table-thsrc .train-type-normal {
+  background-color: #52a80a;
+  border: 2px solid #52a80a;
+}
+
+.table-thsrc .train-type-rapid {
+  background-color: #4a90e2;
+  border: 2px solid #4a90e2;
+}
+
+.table-thsrc .train-type-specialrapid {
+  background-color: #d0021b;
+  border: 2px solid #d0021b;
+}
+
+.table-thsrc .train-number {
+  font-family: 'Avenir-Book', Sans-Serif;
+  text-align: right;
+  color: #da5523;
+  font-size: 32px;
+  line-height: 32px;
+  position: relative;
+  top: 2px;
+  width: 84px;
+  box-sizing: border-box;
+}
+
+.table-thsrc .train-time,
+.table-thsrc .train-cars {
+  font-family: 'AvenirNextCondensed-Regular', Sans-Serif;
+  color: #f5a623;
+  font-size: 48px;
+  line-height: 40px;
+  position: relative;
+  top: 3px;
+}
+
+.table-thsrc .train-cars .unit {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.table-thsrc .train-destination {
+  font-size: 36px;
+  position: relative;
+  top: 2px;
+  text-align-last: justify;
+  width: 100px;
+}
+
+.table-thsrc .train-delay {
+  font-family: 'AvenirNextCondensed-Regular', 'STHeitiTC-Light', Sans-Serif;
+}
+
+.table-thsrc .train-message {
+  font-size: 20px;
+  line-height: 24px;
+  vertical-align: top;
+  height: 48px;
+  background-color: #1c1c1c;
+}
+
+.table-thsrc .train-separator {
+  height: 4px;
+}
+
+.table-thsrc td:nth-child(2),
+.table-thsrc td:nth-child(3),
+.table-thsrc td:nth-child(4),
+.table-thsrc td:nth-child(5) {
+  padding-right: 8px;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
